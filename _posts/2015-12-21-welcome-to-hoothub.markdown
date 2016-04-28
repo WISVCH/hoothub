@@ -21,6 +21,8 @@ HootHub is specifically meant for students who don't have a lot of experience wi
 
 There is one common aspect of software development which you should know before starting on a task, and that is Git. You might have learned a thing or two about this during your projects and courses, but it is important that you have a good understanding before you start. Don't worry, you will need knowledge about Git later in your studies, and there's absolutely no harm in learning it sooner then later. We gathered some useful learning resources which you can use. See the next chapter for details. 
 
+If you have any questions left about a project, required skill or do you have an idea that can make HootHub better? Drop by at the #hoothub channel on [Slack](https://wisvch.slack.com/). For a project/issue specific question, you can also place a comment in the relevant issue. Don't hesitate to ask, we're here to help!
+
 ### Git basics
 The internet is full of Git tutorials. We made a selection of excellent guides which you can choose from. They all at least the same basics, so you can choose any one of them. Next to these basics, you should also read [GitHub's explanation on the Git Flow principle](https://guides.github.com/introduction/flow/)
 

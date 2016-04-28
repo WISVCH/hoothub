@@ -8,10 +8,6 @@ author: HootHub Team
 ---
 Registration for CH events (lectures, workshops, excursions, ...)
 
-Bacon ipsum dolor amet esse et laborum, ground round hamburger venison rump meatball frankfurter cow capicola ut. Boudin dolore capicola, consequat ut filet mignon dolor duis incididunt. Frankfurter esse qui venison. Chuck adipisicing cillum excepteur laborum ex filet mignon landjaeger quis dolore kevin.
+The Event system is meant to replace the current enrollment system through Google Forms. This project is currently in early development phase and is currently focussed on delivering a MVP (Minimally Viable Product). Events is using the Java-based Spring framework. While Spring may seem overwhelming at first, getting started on this project doesn't require advanced knowledge of Java. In this project you'll learn about the MVC architecture and the REST principle. See https://github.com/WISVCH/events for more information and HootHub assignments in the "Issues" section!
 
-Jerky consequat quis tri-tip pork prosciutto short ribs est ham hock consectetur. Dolore mollit fatback kevin, pork belly pastrami officia excepteur venison laborum strip steak in doner. Aliqua sausage spare ribs meatloaf meatball.
-
-Rump t-bone ad tenderloin tempor shank aliquip, frankfurter cupidatat landjaeger id tongue prosciutto kevin. Irure laborum brisket, doner exercitation ipsum anim sirloin magna tail jowl fugiat meatloaf alcatra. Jowl sed meatball spare ribs pork et ullamco duis. Incididunt deserunt porchetta sirloin ground round, leberkas aliquip corned beef anim biltong ea.
-
-Consectetur chicken salami lorem. Pancetta mollit aliqua sirloin ut officia short ribs ribeye ham hock occaecat shoulder incididunt. Laborum duis sausage id. Beef landjaeger sed leberkas tail doner spare ribs cupidatat fatback sausage. Filet mignon spare ribs quis shoulder pancetta ut eiusmod dolore. Venison velit in, landjaeger irure consectetur minim ham deserunt shoulder. Veniam corned beef t-bone sint consequat.
+Project manager for this project is Mark Janssen [@praseodym ](https://github.com/praseodym).
